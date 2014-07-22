@@ -39,4 +39,5 @@ library(whisker)
 template<-getURL("https://raw.githubusercontent.com/gaursrbh/R2D3/master/SunBurst/template.html")
 write(whisker.render(template, params),file="output.html")
 ```
-![D3 Iris Sunburst](/SunBurst/d3_iris_sunburst.png)
+### Output
+![](/SunBurst/d3_iris_sunburst.png)
