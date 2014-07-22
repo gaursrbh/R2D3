@@ -1,9 +1,9 @@
 R2D3
 ====
 
-R to D3 - Generate D3 charts from HTML
+R to D3 - Generate D3 charts from R
 
-Inspired by rCharts
+Inspired by [rCharts](http://rcharts.io)
 
 However no attempts will be made to encapsulate javascript.
 
