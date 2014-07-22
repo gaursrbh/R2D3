@@ -4,7 +4,9 @@ See D3 working example [here](http://bl.ocks.org/mbostock/4348373)
 
 ### Action in R
 Prepare data in R so that it can be fed to the D3 template
+
 One suitable usecase is output of *hclust* tree
+
 We will use *RJSONIO* package to convert the output to required JSON format
 
 ### Bridge to D3
