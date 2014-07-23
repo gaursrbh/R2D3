@@ -40,4 +40,4 @@ template<-getURL("https://raw.githubusercontent.com/gaursrbh/R2D3/master/SunBurs
 write(whisker.render(template, params),file="output.html")
 ```
 ### Output
-![](/SunBurst/d3_iris_sunburst.png)
+See output [here] (http://saurabhgaur.com/static/d3/sunburst/output.html)
